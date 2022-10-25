@@ -228,3 +228,137 @@ z-index: 10;
     
     z-index: 2;
 }
+.personal3
+{
+    font-size: 36px;
+    position: absolute;
+    font-weight: bold;
+    top: 250px;
+    left: 450px;
+    color: white;
+    z-index: 2;
+}
+#imgButton1
+{
+    position: absolute;
+    top: 500px;
+    left: 300px;
+    width: 150px;
+    height: 232px;
+    background-image: url(塔羅牌-3.png);
+}
+#imgButton2
+{
+    position: absolute;
+    top: 500px;
+    left: 600px;
+    width: 150px;
+    height: 232px;
+    background-image: url(塔羅牌-3.png);
+}
+#imgButton3
+{
+    position: absolute;
+    top: 500px;
+    left: 900px;
+    width: 150px;
+    height: 232px;
+    background-image: url(塔羅牌-3.png);
+}
+.imgButton4
+{
+    position: absolute;
+    top: 800px;
+    left: 300px;
+    width: 150px;
+    height: 232px;
+    background-image: url(塔羅牌-3.png);
+}
+.imgButton5
+{
+    position: absolute;
+    top: 800px;
+    left: 600px;
+    width: 150px;
+    height: 232px;
+    background-image: url(塔羅牌-3.png);
+}
+.imgButton6
+{
+    position: absolute;
+    top: 800px;
+    left: 900px;
+    width: 150px;
+    height: 232px;
+    background-image: url(塔羅牌-3.png);
+}
+.imgButton7
+{
+    position: absolute;
+    top: 1100px;
+    left: 300px;
+    width: 150px;
+    height: 232px;
+    background-image: url(塔羅牌-3.png);
+}
+.imgButton8
+{
+    position: absolute;
+    top: 1100px;
+    left: 600px;
+    width: 150px;
+    height: 232px;
+    background-image: url(塔羅牌-3.png);
+}
+.imgButton9
+{
+    position: absolute;
+    top: 1100px;
+    left: 900px;
+    width: 150px;
+    height: 232px;
+    background-image: url(塔羅牌-3.png);
+}
+.img11
+{
+    position: relative;
+    left: -10px;
+    width: 150px;
+    height: 200px;
+}
+.img11
+{
+    position: relative imgBuntton1;
+}
+#start
+{
+    position: absolute;
+    top: 380px;
+    left: 200px;
+    width: 200px;
+    height: 50px;
+    font-size: 36px;
+    
+}
+#p
+{
+    position: absolute;
+    top: 500px;
+    left: 100px;
+}
+#ad
+{
+    position: absolute;
+    top: 120%;
+    left: 5%;
+    font-size: 12px;
+}
+#pic15
+{
+    background-image: url(table.png);
+    width: 1500px;
+    height: 1000px;
+    top: 1500px;
+    bottom: 0px;
+    
+}
